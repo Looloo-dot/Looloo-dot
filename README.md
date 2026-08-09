@@ -16,6 +16,7 @@ econometrics and agent-based simulation, in Python and R.
 | **[Double Machine Learning](https://github.com/Looloo-dot/double-ml-causal-inference)** | Can ML nuisance estimators be used for causal inference without inheriting regularisation bias? | DML-PLIV with cross-fitting and the R-learner on simulated data with known ground truth, plus a policy-targeting evaluation. |
 | **[ABM-ACE](https://github.com/Looloo-dot/abm-ace)** | How do adaptive agents, climate shocks, and inequality interact under different policy regimes? | An agent-based research sandbox with a fully parameterised CLI, so every run is reproducible and auditable. |
 | **[Term Life Insurance Demand](https://github.com/Looloo-dot/term-life-insurance-demand)** | Which household characteristics predict life-insurance coverage, and does regularisation beat transparent OLS? | Two-margin design on 2004 SCF data; Ridge and Lasso against an interpretable benchmark over 30 repeated splits. |
+| **[Marshall Investment Fund](https://github.com/Looloo-dot/MIF-Site)** | — | Site for a student-managed long-only equity fund, [live on GitHub Pages](https://looloo-dot.github.io/MIF-Site/). Static HTML/CSS/JS, no build step. |
 
 ### Currently
 
