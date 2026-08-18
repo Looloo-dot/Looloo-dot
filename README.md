@@ -1,4 +1,4 @@
-## [Louis Zhu](https://looloo-dot.github.io/)
+## Louis Zhu
 
 Frontier model evaluations, and what AI does to work. Oxford Internet Institute,
 University of Oxford.
