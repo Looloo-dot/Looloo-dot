@@ -3,7 +3,7 @@
 Frontier model evaluations, and what AI does to work. Oxford Internet Institute,
 University of Oxford.
 
-I work on measurement problems, asking whether the benchmarks we use to rank AI systems actually
+Hi I'm [Louis](https://looloo-dot.github.io/)! I work on measurement problems, asking whether the benchmarks we use to rank AI systems actually
 measure what we claim, and how automation propagates through labour markets. Mostly applied
 econometrics and agent-based simulation, in Python and R.
 
